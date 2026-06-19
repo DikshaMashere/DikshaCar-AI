@@ -1,4 +1,4 @@
-🚗 Used Car Price Prediction Engine
+# 🚗 Used Car Price Prediction Engine
 Welcome to the Used Car Price Prediction Engine! This web application, built with Flask and a CatBoost Machine Learning model, allows users to get accurate price predictions for used cars based on various features. It also includes features for browsing car listings and user authentication.
 
 ✨ Features
